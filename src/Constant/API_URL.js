@@ -1,0 +1,1 @@
+export const API_URL="https://651be566194f77f2a5af0b69.mockapi.io/shalini/"
